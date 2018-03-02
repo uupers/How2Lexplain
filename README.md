@@ -15,11 +15,11 @@
 
 
 
-** 物理组： ** `LePtC`，`yxlllc`，`章鱼喵`
+**物理组：** `LePtC`，`yxlllc`，`章鱼喵`
 
-** 制作组： ** `N31Welt`（3D CG），`wuyudi`（动画），`ProtossProbe`（配音，Ae 后期）
+**制作组：** `N31Welt`（3D CG），`wuyudi`（动画），`ProtossProbe`（配音，Ae 后期）
 
-** 待定：** `Wavechaser`（C4D），`Salient`（Processing），`HyperGroups`（MMA）
+**待定：** `Wavechaser`（C4D），`Salient`（Processing），`HyperGroups`（MMA）
 
 
 
